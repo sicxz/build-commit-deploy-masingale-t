@@ -1,6 +1,13 @@
 # build-commit-deploy-masingale-t
 Build Commit Deploy -- My first github experience and repo
 
-My first time working with github
+This is a walkthrough of how to take a codepen.io pen and 
+transfer it to a GitHub repository and deploy it using Netlify. 
 
-This is also my first time workign with codespace, YIKES!!!
+**Tools used:**
+* codepen.io
+* GitHub
+    * repositiories
+    * codespaces
+* Netlify
+
